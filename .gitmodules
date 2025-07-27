@@ -1,0 +1,3 @@
+[submodule "software/AVRLib"]
+	path = software/AVRLib
+	url = https://github.com/bdk6/AVRLib
